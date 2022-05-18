@@ -49,7 +49,7 @@ python scripts/preprocessing.py
 ## Test
 `python basicsr/inference.py  -opt options/inference/HINet-Inference.yml`
 
-### Weight path
+## Weight 
 https://drive.google.com/drive/folders/1bazywrfcYZAYkIbP8YFNyR6FYagyBiFL?usp=sharing
 
 
