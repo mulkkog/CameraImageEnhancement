@@ -50,7 +50,7 @@ python scripts/preprocessing.py
 `python basicsr/inference.py  -opt options/inference/HINet-Inference.yml`
 
 ### Weight path
-**`weights/HINet-136k.pth`**
+https://drive.google.com/drive/folders/1bazywrfcYZAYkIbP8YFNyR6FYagyBiFL?usp=sharing
 
 
 
